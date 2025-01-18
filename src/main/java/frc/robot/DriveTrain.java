@@ -26,7 +26,6 @@ public class DriveTrain extends SubsystemBase{
 
     public DriveTrain() {
         super();
-        leftDrive = new XRPMotor(0);
         rightDrive = new XRPMotor(1);
         rightDrive.setInverted(true);
         drive = new DifferentialDrive(leftDrive, rightDrive);
