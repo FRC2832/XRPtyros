@@ -1,10 +1,1 @@
-[
-  {
-    "name": "/Preferences/PIDF",
-    "type": "double",
-    "value": 0.2,
-    "properties": {
-      "persistent": true
-    }
-  }
-]
+[]

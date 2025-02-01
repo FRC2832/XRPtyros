@@ -2,22 +2,7 @@
   "NTProvider": {
     "types": {
       "/FMSInfo": "FMSInfo",
-      "/SmartDashboard/Scheduler": "Scheduler",
-      "/SmartDashboard/SendableChooser[0]": "String Chooser"
-    },
-    "windows": {
-      "/SmartDashboard/SendableChooser[0]": {
-        "window": {
-          "visible": true
-        }
-      }
-    }
-  },
-  "NetworkTables": {
-    "transitory": {
-      "SmartDashboard": {
-        "open": true
-      }
+      "/SmartDashboard/Auto choices": "String Chooser"
     }
   },
   "NetworkTables Info": {
